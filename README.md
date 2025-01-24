@@ -26,9 +26,4 @@ The page layout dynamically adjusts based on the screen width:
 
 ---
 
-## Setup Instructions
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
